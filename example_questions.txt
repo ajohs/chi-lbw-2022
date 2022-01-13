@@ -1,5 +1,5 @@
 What single-stranded DNA sequence does protein X bind to?
-Would double strand breaks caused by G-duplexes can be fixed by homologous recombination or non-homologous end joining?
+Would double strand breaks caused by G-duplexes be fixed by homologous recombination or non-homologous end joining?
 Is there an additional drug that could interfere with the ISR pathway to prevent drug X from dysregulating the ISR pathway?
 What other genes are dysregulated as a consequence of the ISR pathway being dysregulated downstream?
 Can T cells move to the source of insulin in the body?
