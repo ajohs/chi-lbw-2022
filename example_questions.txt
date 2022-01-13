@@ -57,7 +57,7 @@ Where could rdh54 fit in with the other proteins that influence/affect D-loops?
 Is there a good antibody for rdh54?
 Is there a way to quantify methylglyoxal using mass spectrometry?
 Has methylglyoxal been shown to induce anything at all?
-Would treatment of DNA with bisulfite be good enough to develop assay and study D-loops?
+Would treatment of DNA with bisulfite be good enough to develop an assay and study D-loops?
 What kind of target does methylglyoxal induce?
 Is methylglyoxal capable of inducing any kind of transcription response?
 Whenever signaling is activated, is methylglyoxal being induced by downstream activation?
