@@ -51,7 +51,7 @@ Could a protein regulate the length of a D-loop?
 What proteins affect the stability of the D-loop?
 What proteins affect the dynamics of the D-loop?
 What proteins affect the structure of the D-loop?
-What proteins are involved in disrupting D-loops?
+What proteins are involved in disrupting D-loop?
 Are there any technologies or assays that could help monitor D-loop?
 Where could rdh54 fit in with the other proteins that influence/affect D-loop?
 Is there a good antibody for rdh54?
