@@ -1,0 +1,82 @@
+What single-stranded DNA sequence does protein X bind to?
+Would double strand breaks caused by G-duplexes can be fixed by homologous recombination or non-homologous end joining?
+Is there an additional drug that could interfere with the ISR pathway to prevent drug X from dysregulating the ISR pathway?
+What other genes are dysregulated as a consequence of the ISR pathway being dysregulated downstream?
+Can T cells move to the source of insulin in the body?
+What do T cells do in the pancreas?
+Why do the insulin receptors increase on T cells upon viral infection of high-risk patients?
+Can we prevent diabetes progression if we inhibit insulin receptors in T cells?
+Are T cells antigen-specific?
+Are T cells pancreatic-specific?
+Is there a mutation involved in overexpressing T cells?
+How long can T cells be antigen-specific?
+How are insulin receptor overexpressing T cells different transcriptionally?
+Are increased insulin receptors on T cells causing some pathway changes?
+What repair pathways are associated with pathway X?
+Can overexpression of gene X cause cancer?
+Is overexpression of gene X going to be related to any specific type of cancer?
+Is overexpression of gene X going to be in correlation with other genes?
+What DNA repair pathway factors is protein X overlapping with?
+What kind of functional groups are on molecule X?
+What happens to chemical X when it gets inside the body?
+Given a complex chemical that's been manufactured by a chemical company for clothing, when it gets into the blood stream, how does it break apart? Does the complex chemical break into organ systems?
+Does cell line X express protein X?
+Is cell line X a relevant cell line where issue X arises?
+How easy is it to work with cell line X?
+What is a cell line that is both relevant and easy to work with, in terms of how well does the cell line grow vs. how well is the cell line perturbed?
+Of this list of statistically significant genes, are there any genes that are interrelated that would increase chances of a true positive?
+Is this pathway that these genes are part of novel?
+Has this pathway that these genes are part of been described before?
+Are there clinically tractable models that the novelty of pathway X could contribute to?
+Have gene X, Y, and Z been implicated in similar diseases or phenotypes?
+How do excipients metabolize?
+Are excipients metabolized?
+How do excipients degrade?
+Are new excipients going to withstand effective delivery?
+What cellular compartment is pathway X in?
+Does glyoxalase 1 have a role in the protection of heart attack?
+Has somebody tested the level of glyoxalase 1 in diabetes patients?
+Has anyone performed a study in pre-diabetics measuring glyoxal levels?
+What proteins affect the length of the D-loop?
+Is there a good antibody for RDH54?
+If I delete a gene that is involved in disrupting the D-loop, is that more effective in repair?
+Does sulforaphane induce glyoxalase1?
+How does a patient with diabetes do with heart attacks?
+Are all the metabolites in pathway X upregulated or downregulated?
+Is the metabolite higher because the enzyme that produces it consumes it?
+Can we find molecules that will induce glyoxalase1?
+What factors ensure DNA only copies from the correct sequence?
+What factors regulate stability of binding?
+Could a protein regulate the length of a D-loop?
+What proteins affect the stability of the D-loop?
+What proteins affect the dynamics of the D-loop?
+What proteins affect the structure of the D-loop?
+What proteins are involved in disrupting D-loop?
+Are there any technologies or assays that could help monitor D-loop?
+Where could rdh54 fit in with the other proteins that influence/affect D-loop?
+Is there a good antibody for rdh54?
+Is there a way to quantify methylglyoxal using mass spectrometry?
+Has methylglyoxal been shown to induce anything at all?
+Would treatment of DNA with bisulfite be good enough to develop assay and study D-loops?
+What kind of target does methylglyoxal induce?
+Is methylglyoxal capable of inducing any kind of transcription response?
+Whenever signaling is activated, is methylglyoxal being induced by downstream activation?
+What is the interaction between cancer cells and T-cells?
+Will a mutant of rdh54 not do what a wild type does?
+Any drugs we can use that would inhibit protein X?
+Can we recreate the environment by using collagen?
+Can we use a drug to inhibit upregulation in pathway X?
+Does ICI efficacy improve as a result of pathway upregulation?
+Which lab can we collaborate with?
+Do I need to work with a computer scientist?
+Who has done something similar? Are they willing to collaborate?
+Can I really make the assumptions I am making to form a hypothesis because the literature often does not afford an apples to apples comparison (e.g., different pathways used for the same protein)?
+What are the factors leading to blockers of immune checkpoints?
+Where has the field stopped?
+What are the mechanical properties playing a role in those inhibitors?
+How do the mechanics influence this ICI therapy?
+How can I mimic the in vivo system?
+How can I reduce the timeline?
+Can I make the design of the setup faster?
+How can we improve T-cell infiltration?
+How is it, when a DNA is broken, it goes to the correct sequence and repairs DNA?
